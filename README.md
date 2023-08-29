@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src='WEB PANEL/img/logo.png' style="height:100px;width:100px;" >
+<img src='./.github/logo.png' style="height:100px;width:100px;" >
 </p>
 <h1 align=center>AIRAVAT-GOLD-MIHRK</h1>
 
@@ -40,7 +40,7 @@
     - Auto Starts on restarting the device
     - Auto Starts when any notification arrives
  - No port forwarding needed
-
+<img align=center src=./.github/jpg.jpg >
 <img align=center src=./.github/img.jpg >
 
 
