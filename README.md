@@ -99,9 +99,9 @@
   1. To be updated...
 
 ### ❤️Supporters❤️
-[![Stargazers repo roster for @Technical-Robot/AIRAVAT-GOLD-MIHRK](https://reporoster.com/stars/dark/Technical-Robot/AIRAVAT-GOLD-MIHRK)](https://github.com/Technical-Robot/AIRAVAT-GOLD-MIHRK/stargazers)
+[![Stargazers repo roster for @Technical-Robot/AIRAVAT-GOLD-MIHRK](https://reporoster.com/stars/Technical-Robot/AIRAVAT-GOLD-MIHRK)](https://github.com/Technical-Robot/AIRAVAT-GOLD-MIHRK/stargazers)
 
-[![Forkers repo roster for @Technical-Robot/AIRAVAT-GOLD-MIHRK](https://reporoster.com/forks/dark/Technical-Robot/AIRAVAT-GOLD-MIHRK)](https://github.com/Technical-Robot/AIRAVAT-GOLD-MIHRK/network/members)
+[![Forkers repo roster for @Technical-Robot/AIRAVAT-GOLD-MIHRK](https://reporoster.com/forks/Technical-Robot/AIRAVAT-GOLD-MIHRK)](https://github.com/Technical-Robot/AIRAVAT-GOLD-MIHRK/network/members)
 
 
 
